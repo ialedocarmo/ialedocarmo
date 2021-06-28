@@ -1,6 +1,6 @@
 ### Hi there 👋🏾 
 
-#### I'm a software engineer working in Sao Paulo, Brazil.
+#### I'm a web developer working in Sao Paulo, Brazil.
 
 <a href="https://www.linkedin.com/in/alessandrizes/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
