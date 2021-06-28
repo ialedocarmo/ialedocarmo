@@ -39,6 +39,6 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 <p></p>
 
 <a href="https://github.com/alessandrizes/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandrizes&count_private=true&hide=issues&show_icons=true&theme=flag-india" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandrizes&count_private=true&show_icons=true&theme=flag-india" />
 </a>
 
