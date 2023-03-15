@@ -2,7 +2,7 @@
 
 <h2>Hi everyone</h2>
 
-<p>Ale, ou mais conhecida como alessandrizes, é desenvolvedora frontend e engenheira da computação. Super apaixonada em chocolate, na queen Bey e na cultura asiática.</p>
+<p>Ale, ou mais conhecida como alessandrizes, é desenvolvedora frontend e engenheira da computação. Super apaixonada por doces, pela queen Bey e pela cultura asiática.</p>
 
 <h4>Caso queira acompanhar mais conteúdos:</h4> 
 
