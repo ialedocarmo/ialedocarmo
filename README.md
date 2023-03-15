@@ -4,7 +4,7 @@
 
 <p>Ale, ou mais conhecida como alessandrizes, é desenvolvedora frontend e engenheira da computação. Super apaixonada em chocolate, na queen Bey e na cultura asiática.</p>
 
-<h4>Caso queira acompanhar meus conteúdos:</h4> 
+<h4>Caso queira acompanhar mais conteúdos:</h4> 
 
 <div align="left">
   <a href="https://www.instagram.com/alessandrizes/" alt="Instagram">
