@@ -1,4 +1,4 @@
-<img src="logo.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo alessandrizes">
+<img src="bee.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo alessandrizes">
 
 <h2>Hi everyone</h2>
 
