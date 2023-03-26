@@ -1,4 +1,4 @@
-<img src="avatar.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Avatar alessandrizes">
+<img src="logo.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo alessandrizes">
 
 <h2>Hi everyone</h2>
 
