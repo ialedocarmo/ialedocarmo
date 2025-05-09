@@ -1,21 +1,41 @@
-<img src="logo.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo alessandrizes">
+# ialedocarmo 👋🏾
 
-<h2>Hi everyone</h2>
+<details>
+  <summary><strong>🇧🇷 Português</strong></summary>
 
-<p>Ale, é desenvolvedora frontend e engenheira da computação. Super apaixonada por doces, pela queen Bey e pela cultura asiática.</p>
+✨ Oi, eu sou a Ale! ✨
 
-<h4>Caso queira acompanhar mais conteúdos:</h4> 
+Analista de engenharia de TI Senior | Tech Lead | Engenheira da Computação
 
-<div align="left">
-  <a href="https://www.instagram.com/ialedocarmo/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-fae703?style=for-the-badge&logo=Instagram&logoColor=000000"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ialedocarmo" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-fae703?style=for-the-badge&logo=Linkedin&logoColor=000000"/>
-  </a>
-  
-  <a href="https://twitter.com/ialedocarmo" alt="Twitter">
-    <img src="https://img.shields.io/badge/-Twitter-fae703?style=for-the-badge&logo=Twitter&logoColor=000000"/>
-  </a>
-</div>
+Apaixonada por tecnologia, viagens, cultura pop e autocuidado.  
+Acredito na simplicidade, consistência e no poder dos recomeços.
+
+- 💻 Atualmente focada em projetos que unem tecnologia e bem-estar  
+- ✈️ Amante de viagens e novas culturas  
+- 📲 Compartilhando rotina, aprendizados e inspiração nas redes sociais  
+- ⚡ Buscando sempre crescer e ajudar outras mulheres no mundo tech
+
+Vamos nos conectar?  
+[Instagram](https://instagram.com/ialedocarmo) | [TikTok](https://tiktok.com/@ialedocarmo) | [LinkedIn](https://linkedin.com/in/ialedocarmo)
+
+</details>
+
+<details>
+  <summary><strong>🇺🇸 English</strong></summary>
+
+✨ Hi, I’m Ale! ✨
+
+Senior IT Engineering Analyst | Tech Lead | Computer Engineer
+
+Passionate about technology, travel, pop culture, and self-care.  
+I believe in simplicity, consistency, and the power of fresh starts.
+
+- 💻 Currently focused on projects that combine technology and well-being  
+- ✈️ Lover of travel and new cultures  
+- 📲 Sharing routines, learnings, and inspiration on social media  
+- ⚡ Always aiming to grow and help other women in tech
+
+Let’s connect!  
+[Instagram](https://instagram.com/ialedocarmo) | [TikTok](https://tiktok.com/@ialedocarmo) | [LinkedIn](https://linkedin.com/in/ialedocarmo)
+
+</details>
